@@ -1,0 +1,14 @@
+drop table Delivery_position;
+drop table Cart_position;
+drop table Cart;
+drop table Total_nr_of_product;
+drop table Version_product;
+drop table Size;
+drop table Colour;
+drop table Delivery;
+drop table possession;
+drop table Product_offer;
+drop table Discount;
+drop table Definition_of_product;
+drop table Producent; 
+drop table Supplier;
