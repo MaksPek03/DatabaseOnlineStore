@@ -7,3 +7,5 @@ customers or for their purposes, also storage team, users in this category may r
 system to see all different types of product, product offers, discounts etc. The purpose of the 
 database is to enable and facilitate employees' access to details about products available in the 
 store. This database allows to check all the necessary details that make working in this store easier.
+
+The database report describes everything in details, including explaining schema.
