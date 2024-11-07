@@ -16,6 +16,7 @@ Set up the database:
 Use the provided SQL scripts to create tables and insert data.
 
 mysql -u username -p < create_file.sql
+
 Check the database:
 
 Use the following script to verify updates and product information:
