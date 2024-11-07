@@ -1,4 +1,5 @@
 🏬 Database for Online Store (Hairdressing Products) 💇‍♀️💅
+
 This project is a University project for a Database Course. The project is a database system designed for a stationary store that sells products primarily intended for hairdressers. It aims to streamline the management of inventory, product details, offers, and discounts, helping store employees access essential product information quickly.
 
 🚀 Features:
