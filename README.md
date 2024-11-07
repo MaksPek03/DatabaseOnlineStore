@@ -1,11 +1,24 @@
-# DatabaseOnlineStore
-A stationary store and storage where customers can buy various types of products intended mainly 
-for hairdressers. The customers of my database will be people who want to buy hairdressing 
-accessories, for example combs and clippers. 
-The database users will be workers who want find more information about given product for 
-customers or for their purposes, also storage team, users in this category may require access to the 
-system to see all different types of product, product offers, discounts etc. The purpose of the 
-database is to enable and facilitate employees' access to details about products available in the 
-store. This database allows to check all the necessary details that make working in this store easier.
+🏬 Database for Online Store (Hairdressing Products) 💇‍♀️💅
+This project is a University project for a Database Course. The project is a database system designed for a stationary store that sells products primarily intended for hairdressers. It aims to streamline the management of inventory, product details, offers, and discounts, helping store employees access essential product information quickly.
 
-The database report describes everything in details, including explaining schema.
+🚀 Features:
+Product Information: Store details about various hairdressing products (combs, clippers, etc.).
+User Roles: Differentiates between store employees and users with distinct access levels.
+Inventory Management: Easily track and manage the available stock and product offers.
+
+📦 Installation
+Clone the repository:
+git clone https://github.com/MaksPek03/DatabaseOnlineStore.git
+cd DatabaseOnlineStore
+
+Set up the database:
+Use the provided SQL scripts to create tables and insert data.
+
+mysql -u username -p < create_file.sql
+Check the database:
+
+Use the following script to verify updates and product information:
+
+mysql -u username -p < checking_updates.sql
+📄 Documentation
+The database report provides a detailed explanation of the schema and usage. You can find it in databases_report.pdf.
